@@ -10,7 +10,7 @@ require (
 	github.com/bgentry/speakeasy v0.1.0
 	github.com/btcsuite/btcd v0.22.1
 //	github.com/celestiaorg/rollmint v0.4.0
-	github.com/DED-EDU/rollmint v0.4.0	// replaced rollmint with my forked version. Note: may need to put out official release for this to work properly
+	github.com/DED-EDU/rollmint v0.1.0	// replaced rollmint with my forked version. Note: may need to put out official release for this to work properly
 	github.com/celestiaorg/smt v0.3.0
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/cockroachdb/apd/v2 v2.0.2
